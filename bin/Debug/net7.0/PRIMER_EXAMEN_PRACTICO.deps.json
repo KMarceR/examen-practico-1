@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PRIMER_EXAMEN_PRACTICO/1.0.0": {
+        "runtime": {
+          "PRIMER_EXAMEN_PRACTICO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRIMER_EXAMEN_PRACTICO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
